@@ -4,7 +4,7 @@
 
 
 
-<img align="right"  src="https://github.com/FotiouK/SpaceX_Data_Science/assets/108896534/0fcac09e-c66b-4fa5-9c43-6ce0e5e7367c" alt="image" height="400" width ="400">
+<img align="left"  src="https://github.com/FotiouK/SpaceX_Data_Science/assets/108896534/0fcac09e-c66b-4fa5-9c43-6ce0e5e7367c" alt="image" height="400" >
 
 
 ## Overview
