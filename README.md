@@ -1,9 +1,11 @@
 # Rocketing Ahead: Leveraging Data Science in the New Space Age
 
 
-<p align="center">
-  <img src="https://github.com/FotiouK/SpaceX_Data_Science/assets/108896534/0fcac09e-c66b-4fa5-9c43-6ce0e5e7367c" alt="image" height="300">
-</p>
+
+
+
+<img align="right"  src="https://github.com/FotiouK/SpaceX_Data_Science/assets/108896534/0fcac09e-c66b-4fa5-9c43-6ce0e5e7367c" alt="image" height="400" width ="400">
+
 
 ## Overview
 This repository forms part of the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) and focuses on predicting the success of SpaceX rocket launches. Utilising data collected through SpaceX's REST API and web scraping from Wikipedia, we've performed comprehensive data wrangling, exploratory data analysis (EDA), and predictive analytics.
