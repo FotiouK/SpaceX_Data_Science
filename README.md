@@ -57,4 +57,7 @@ SpaceX's groundbreaking ability to reuse the first stage of their Falcon 9 rocke
 ### Presentation
 - [Rocketing Ahead Presentation](https://github.com/FotiouK/SpaceX_Data_Science/blob/main/Rocketing%20Ahead%20Presentation.pdf)
 
+## Conclusion
+Through this project, we aim to provide insights into the predictability of successful rocket launches based on historical data. Our analysis delves into the potential impact of successful first stage landings on launch costs, offering valuable information for stakeholders in the space industry.
 
+Feel free to explore the notebooks, visualizations, and models shared in this repository!
