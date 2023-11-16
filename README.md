@@ -42,4 +42,19 @@ SpaceX's groundbreaking ability to reuse the first stage of their Falcon 9 rocke
   <img src="https://github.com/FotiouK/SpaceX_Data_Science/assets/108896534/799ba67d-4ce0-438d-8258-ebd28f365f70" alt="image" height="400">
 </p>
 
+## Repository Structure
+
+### Jupyter Notebooks
+1. [SpaceX API Data Collection](https://github.com/FotiouK/SpaceX_Data_Science/blob/main/1-jupyter-labs-spacex-data-collection-api.ipynb) 
+2. [Web Scrapping Data Collection](https://github.com/FotiouK/SpaceX_Data_Science/blob/main/2-jupyter-labs-webscraping.ipynb)
+3. [Data Wrangling](https://github.com/FotiouK/SpaceX_Data_Science/blob/main/3-jupyter-spacex-data-wrangling.ipynb) 
+4. [Exploratory Analysis Using SQL](https://github.com/FotiouK/SpaceX_Data_Science/blob/main/4-jupyter-labs-eda-sql-coursera_sqllite.ipynb) 
+5. [Exploratory Analysis Using Pandas and Matplotlib](https://github.com/FotiouK/SpaceX_Data_Science/blob/main/5-jupyter-labs-eda-dataviz.ipynb) 
+6. [Interactive Visual Analytics with Folium](https://github.com/FotiouK/SpaceX_Data_Science/blob/main/6-jupyter_launch_site_location_folium.ipynb) 
+7. [Interactive Dashboard with Ploty Dash](https://github.com/FotiouK/SpaceX_Data_Science/blob/main/7-spacex_dash_app.py.ipynb)
+8. [Predictive Analysic (Classification)](https://github.com/FotiouK/SpaceX_Data_Science/blob/main/8-SpaceX_Machine_Learning_Prediction.ipynb)
+
+### Presentation
+- [Rocketing Ahead Presentation](https://github.com/FotiouK/SpaceX_Data_Science/blob/main/Rocketing%20Ahead%20Presentation.pdf)
+
 
