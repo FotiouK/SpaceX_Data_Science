@@ -4,7 +4,7 @@
 
 
 
-<img align="left"  src="https://github.com/FotiouK/SpaceX_Data_Science/assets/108896534/0fcac09e-c66b-4fa5-9c43-6ce0e5e7367c" alt="image" height="300" >
+<img align="left"  src="https://github.com/FotiouK/SpaceX_Data_Science/blob/main/Images/rocket.jpg" alt="image" height="300" >
 
 
 ## Overview
@@ -29,17 +29,19 @@ SpaceX's groundbreaking ability to reuse the first stage of their Falcon 9 rocke
 - Performed extensive data wrangling to generate a landing class from the outcome column
 - Conducted exploratory data analysis (EDA) using visualization techniques and SQL
 <p align="center">
-  <img src="https://github.com/FotiouK/SpaceX_Data_Science/assets/108896534/5c6a30fe-4c67-49df-a208-522dacbb44d5" alt="image">
+  <img src="https://github.com/FotiouK/SpaceX_Data_Science/blob/main/Images/eda.png" alt="image">
 </p>
 
 - Utilized interactive visual analytics with Folium and Plotly Dash
-![image](https://github.com/FotiouK/SpaceX_Data_Science/assets/108896534/708c8d66-5c56-49b0-b152-6b0de2e31159)
+  
+<img src="https://github.com/FotiouK/SpaceX_Data_Science/blob/main/Images/map.png" alt="image">
+
 
 ### Predictive Analysis
 - Employed classification models to predict launch success
 - Leveraged GridSearchCV to determine the best-fit model parameters
 <p align="center">
-  <img src="https://github.com/FotiouK/SpaceX_Data_Science/assets/108896534/799ba67d-4ce0-438d-8258-ebd28f365f70" alt="image" height="400">
+  <img src="https://github.com/FotiouK/SpaceX_Data_Science/blob/main/Images/models.png" alt="image" height="400">
 </p>
 
 ## Repository Structure
