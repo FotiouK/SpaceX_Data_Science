@@ -59,5 +59,4 @@ SpaceX's groundbreaking ability to reuse the first stage of their Falcon 9 rocke
 
 ## Conclusion
 Through this project, we aim to provide insights into the predictability of successful rocket launches based on historical data. Our analysis delves into the potential impact of successful first stage landings on launch costs, offering valuable information for stakeholders in the space industry.
-
 Feel free to explore the notebooks, visualizations, and models shared in this repository!
